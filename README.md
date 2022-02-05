@@ -19,7 +19,7 @@ Before getting started, please ensure you create and account at [ipgeolocation](
 - Hop on to [Omegle](https://www.omegle.com/)
 - Open developer tools (depends on browser) OR Inspect element
 - Navigate to the "Console" tab and paste the code from `bootstrap.js` in there (hit enter... *sigh*).
-  You would need to keep the console window open for watching the stranger's location...*duh*
+  You would need to keep the console window open for watching the stranger's location... *duh*
 
 ## Contribute
 
